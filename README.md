@@ -1,26 +1,26 @@
-💫 **About Me**<br>
+# 💫 About Me<br>
 Hi, I’m Kailu, Co-Founder and Lead Developer at <a href="https://sharpbytesoftware.com">SharpByte Software</a>, a Netherlands-based indie studio where I collaborate on small, independent projects with a friend alongside my professional development.<br><br>
-I hold a Degree in Computer Science and Application Development, and I’m passionate about building secure, user-friendly software that solves real-world problems.<br><br>
+I hold a **Bachelor's Degree in Computer Science and Application Development**, and I’m passionate about building secure, user-friendly software that solves real-world problems.<br><br>
 I specialise in C#, Java, and Kotlin, with growing expertise in C++ and Python, and I’m always eager to contribute to larger teams where I can learn, grow, and add value.<br><br>
 
-🔭 **I’m currently working on**<br>
+## 🔭 I’m currently working on<br>
 Building KairoDrift, a sea drift prediction web app using FastAPI, Python, and real-time marine data to help Search and Rescue teams predict casualty drift patterns. I’m also Co-Founder and Lead Developer at SharpByte Software, a Netherlands-based indie studio where we build small projects like PinPoint, a C#/C++ gaming overlay for fully customizable crosshairs, and FoodFlow, a mobile meal planning app.<br><br>
 
-👯 **I’m looking to collaborate on**<br>
+## 👯 I’m looking to collaborate on<br>
 AI-powered environmental solutions, open-source projects, and anything involving real-time data integration, maritime safety, or rescue operations.<br><br>
 
-🤝 **I’m looking for help with**<br><br>
+## 🤝 I’m looking for help with<br><br>
 Machine Learning model improvement<br><br>
 Advanced Python and C++ techniques<br><br>
 Secure API development and data validation<br><br>
 Full-stack projects using FastAPI, Angular, MongoDB, Node.js, and React<br><br>
 
-🌱 **I’m currently learning**<br><br>
+## 🌱 I’m currently learning<br><br>
 AI and machine learning (applied to ocean data and drift predictions)<br><br>
 Geospatial data visualization with Leaflet.js<br><br>
 Full-stack security best practices (JWT, input validation, sanitization)<br><br>
 
-💬 **Ask me about**<br><br>
+## 💬 Ask me about<br><br>
 Building secure web apps (JWT auth, role-based access)<br><br>
 My Node.js & Angular banking transactions app with JWT and SWIFT integration<br><br>
 RESTful API security and validation using Express.js, Mongoose, Joi, and Helmet<br><br>
@@ -28,8 +28,9 @@ Angular Material Dashboards, Auth Guards, and Employee Portals<br><br>
 My WPF C# Windows App for citizen issue reporting<br><br>
 Python scripting for ballistic calculations, rocket trajectory plotting, and physics simulations<br><br>
 
-⚡ **Fun fact**<br>
+## ⚡ Fun fact<br>
 I’m bilingual in French and English, and I love the ocean.<br>
+
 
 
 
