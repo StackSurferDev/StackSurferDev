@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://imgflip.com/gif/9uh8zz" alt="Coding Pixel Art">
+</p>
+
+
 # 💫 About Me<br>
 Hi, I’m Kailu, Co-Founder and Lead Developer at <a href="https://sharpbytesoftware.com">SharpByte Software</a>, a Netherlands-based indie studio where I collaborate on small, independent projects with a friend alongside my professional development.<br><br>
 I hold a **Bachelor's Degree in Computer Science and Application Development**, and I’m passionate about building secure, user-friendly software that solves real-world problems.<br><br>
