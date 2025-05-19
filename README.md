@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://imgflip.com/gif/9uh8zz" alt="Coding Pixel Art">
-</p>
+<div align="center">
+  <img height="150" src="https://imgflip.com/gif/9uh8zz"  />
+</div>
+
 
 
 # 💫 About Me<br>
