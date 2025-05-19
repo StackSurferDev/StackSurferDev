@@ -4,7 +4,7 @@ I hold a **Bachelor's Degree in Computer Science and Application Development**, 
 I specialise in C#, Java, and Kotlin, with growing expertise in C++ and Python, and I’m always eager to contribute to larger teams where I can learn, grow, and add value.<br><br>
 
 ## 🔭 I’m currently working on<br>
-Building KairoDrift, a sea drift prediction web app using FastAPI, Python, and real-time marine data to help Search and Rescue teams predict casualty drift patterns. I’m also Co-Founder and Lead Developer at SharpByte Software, a Netherlands-based indie studio where we build small projects like PinPoint, a C#/C++ gaming overlay for fully customizable crosshairs, and FoodFlow, a mobile meal planning app.<br><br>
+KairoDrift, a sea drift prediction web app using FastAPI, Python, and real-time marine data to help Search and Rescue teams predict casualty drift patterns. I’m also Co-Founder and Lead Developer at SharpByte Software, a Netherlands-based indie studio where we build small projects like PinPoint, a C#/C++ gaming overlay for fully customizable crosshairs, and FoodFlow, a mobile meal planning app.<br><br>
 
 ## 👯 I’m looking to collaborate on<br>
 AI-powered environmental solutions, open-source projects, and anything involving real-time data integration, maritime safety, or rescue operations.<br><br>
