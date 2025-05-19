@@ -1,4 +1,4 @@
-<img align="center" height="64" src="https://imgflip.com/gif/9uh8zz](https://www.pixilart.com/art/coding-dogo-sr2712ab0b35ecd"  />
+<img align="center" height="64" src="https://imgflip.com/gif/9uh8zz](https://www.pixilart.com/art/coding-dogo-sr2712ab0b35ecd"/>
 
 
 
