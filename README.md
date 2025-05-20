@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xUOxf3tDdAA1VBIgGs/giphy.gif" width="100%" alt="surf wave banner">
+<img src="./assets/wave-banner.gif" width="100%" alt="surf wave banner">
 
 
 
