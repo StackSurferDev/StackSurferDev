@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Kailu+%F0%9F%91%8B)
+
 # 💫 About Me<br>
 Hi, I’m Kailu, Co-Founder and Lead Developer at <a href="https://sharpbytesoftware.com">SharpByte Software</a>, a Netherlands-based indie studio where I collaborate on small, independent projects with a friend alongside my professional development.<br><br>
 I hold a **Bachelor's Degree in Computer Science and Application Development**, and I’m passionate about building secure, user-friendly software that solves real-world problems.<br><br>
