@@ -1,4 +1,4 @@
-<img src="./assets/wave-banner.gif" width="100%" alt="surf wave banner">
+
 
 
 
