@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/xUOxf3tDdAA1VBIgGs/giphy.gif" width="50" alt="surfing wave"> Hey there, I'm Kailu
+<img src="https://media.giphy.com/media/xUOxf3tDdAA1VBIgGs/giphy.gif" width="100%" alt="surf wave banner">
+
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3399FF&width=600&lines=Hey+there%2C+I'm+Kailu+%F0%9F%91%8B)
