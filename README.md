@@ -7,7 +7,7 @@
 
 # 💫 About Me<br>
 Hi, I’m Kailu, Co-Founder and Lead Developer at <a href="https://sharpbytesoftware.com">SharpByte Software</a>, a Netherlands-based indie studio where I collaborate on small, independent projects with a friend alongside my professional development.<br><br>
-I hold a **Bachelor's Degree in Computer Science and Application Development**, and I’m passionate about building secure, user-friendly software that solves real-world problems.<br><br>
+I hold a **Bachelor's Degree in Computer and Information Sciences in Application Development**, and I’m passionate about building secure, user-friendly software that solves real-world problems.<br><br>
 I specialise in C#, Java, and Kotlin, with growing expertise in C++ and Python, and I’m always eager to contribute to larger teams where I can learn, grow, and add value.<br><br>
 
 ## 🔭 I’m currently working on<br>
