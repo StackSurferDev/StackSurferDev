@@ -1,23 +1,23 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3399FF&width=700&lines=Developer+%2B+Aviator;Building+tools+for+the+cockpit;Open+source+%7C+Freelance+%7C+Indie+dev)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3399FF&width=700&lines=Software+Developer;Freelance+%7C+Full-stack+%7C+Desktop;Secure%2C+practical+software)
 
 
 # 💫 About Me
 
-Developer based in Switzerland with a Bachelor's Degree in Computer and Information Sciences in Application Development. I build secure, practical software — and when I'm not shipping code, I'm in the sim or buried in aviation systems.
+Developer based in Switzerland with a Bachelor's Degree in Computer and Information Sciences in Application Development. I build secure, user-friendly software that solves real-world problems.
 
-I specialise in C#, Java, and Kotlin, with growing C++ and Python chops. Always keen to join teams where craftsmanship, curiosity, and real-world impact matter.
+I specialise in C#, Java, and Kotlin, with growing expertise in C++ and Python. Always keen to contribute to teams where I can learn, grow, and deliver solid engineering.
 
 
 ## 🔭 I’m currently working on
 
-Freelance and contract work across desktop, web, and tooling — including **Guard Mate**, a personal safety companion app, and **FoodFlow** (mobile meal planning).
+Freelance and contract work across desktop, web, and backend systems.
 
-Also contributing to open-source flight-sim tooling, including DCS waypoint automation and module support.
+Outside of client work, I keep a few passion projects going — including **Guard Mate**, a personal safety companion app — and contribute to open-source tooling when I can.
 
 
 ## 👯 I’m looking to collaborate on
 
-Aviation-related software, open-source tools, real-time systems, desktop overlays, and indie products that make complex workflows simpler.
+Open-source projects, secure full-stack applications, real-time systems, and tools that make complex workflows simpler.
 
 
 ## 🤝 I’m looking for help with
@@ -25,13 +25,12 @@ Aviation-related software, open-source tools, real-time systems, desktop overlay
 - Advanced Python and C++ techniques  
 - Secure API development and data validation  
 - Full-stack projects with FastAPI, Angular, MongoDB, Node.js, and React  
-- Flight-sim reverse engineering and cockpit automation patterns  
 
 
 ## 🌱 I’m currently learning
 
-- Deeper systems work around simulation, navigation, and real-time apps  
-- Geospatial visualization  
+- AI and machine learning fundamentals  
+- Geospatial data visualization  
 - Full-stack security best practices (JWT, input validation, sanitization)  
 
 
@@ -42,13 +41,12 @@ Aviation-related software, open-source tools, real-time systems, desktop overlay
 - RESTful API security with Express.js, Mongoose, Joi, and Helmet  
 - Angular Material dashboards, auth guards, and employee portals  
 - WPF C# Windows apps  
-- Python scripting for physics sims, trajectories, and tooling  
-- Flight sims, avionics UX, and open-source DCS projects  
+- Python scripting for tooling, simulations, and automation  
 
 
 ## ⚡ Fun fact
 
-Bilingual in French and English. Equally happy debugging a JWT flow or dialling in a flight plan.
+Bilingual in French and English.
 
 
 ## 🌐 Socials
