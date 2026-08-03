@@ -22,31 +22,31 @@ Open-source projects, secure full-stack applications, real-time systems, and too
 
 ## 🤝 I’m looking for help with
 
-- Advanced Python and C++ techniques  
-- Secure API development and data validation  
-- Full-stack projects with FastAPI, Angular, MongoDB, Node.js, and React  
+- 🐍⚙️ Advanced Python and C++ techniques  
+- 🔐🛡️ Secure API development and data validation  
+- 🌐🧩 Full-stack projects with FastAPI, Angular, MongoDB, Node.js, and React  
 
 
 ## 🌱 I’m currently learning
 
-- AI and machine learning fundamentals  
-- Geospatial data visualization  
-- Full-stack security best practices (JWT, input validation, sanitization)  
+- 🤖🧠 AI and machine learning fundamentals  
+- 🗺️📍 Geospatial data visualization  
+- 🔒🧪 Full-stack security best practices (JWT, input validation, sanitization)  
 
 
 ## 💬 Ask me about
 
-- Building secure web apps (JWT auth, role-based access)  
-- Node.js & Angular apps with JWT and banking/SWIFT-style integrations  
-- RESTful API security with Express.js, Mongoose, Joi, and Helmet  
-- Angular Material dashboards, auth guards, and employee portals  
-- WPF C# Windows apps  
-- Python scripting for tooling, simulations, and automation  
+- 🛡️ Building secure web apps (JWT auth, role-based access)  
+- 🏦 Node.js & Angular apps with JWT and banking/SWIFT-style integrations  
+- 🧰 RESTful API security with Express.js, Mongoose, Joi, and Helmet  
+- 📊 Angular Material dashboards, auth guards, and employee portals  
+- 💻 WPF C# Windows apps  
+- 🐍 Python scripting for tooling, simulations, and automation  
 
 
 ## ⚡ Fun fact
 
-Bilingual in French and English.
+🇨🇭🇫🇷🇬🇧 Bilingual in French and English.
 
 
 ## 🌐 Socials
