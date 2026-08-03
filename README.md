@@ -10,7 +10,7 @@ I specialise in C#, Java, and Kotlin, with growing C++ and Python chops. Always 
 
 ## 🔭 I’m currently working on
 
-Freelance and contract work across desktop, web, and tooling. Co-Founder and Lead Developer at **SharpByte Software**, a Netherlands-based indie studio — shipping projects like **PinPoint** (C#/C++ customizable gaming overlay) and **FoodFlow** (mobile meal planning).
+Freelance and contract work across desktop, web, and tooling — including projects like **PinPoint** (C#/C++ customizable gaming overlay) and **FoodFlow** (mobile meal planning).
 
 Also contributing to open-source flight-sim tooling, including DCS waypoint automation and module support.
 
